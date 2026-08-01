@@ -1,0 +1,14 @@
+{
+  "repo": "roost",
+  "feeds": [
+    {
+      "source": "https://support.getroost.com/",
+      "feed_url": "https://support.getroost.com/",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    }
+  ],
+  "post_count": 0,
+  "fetched": "2026-07-25T15:00:33Z"
+}
